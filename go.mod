@@ -1,3 +1,3 @@
-module github.com/KovalevNikolay710/mypackage
+module mypackage
 
 go 1.24.1
